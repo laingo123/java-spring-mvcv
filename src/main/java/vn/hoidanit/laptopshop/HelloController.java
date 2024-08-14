@@ -17,6 +17,6 @@ public class HelloController {
 
     @GetMapping("/admin")
     public String adminPage() {
-        return "cái này cho admin";
+        return "cái này cho admin con chó điên";
     }
 }
